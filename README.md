@@ -20,6 +20,7 @@ Here you'll find a collection of my projects ranging from data analysis and visu
 
 Contact:
 📫 If you'd like to get in touch or discuss potential collaborations, feel free to reach out to me via LinkedIn or email.
+emali: Zulqarnain2244@gmail.com
 
 Let's connect and empower each other through data-driven insights and innovation!
 <!---
